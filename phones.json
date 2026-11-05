@@ -1,0 +1,26 @@
+{
+  "Phones": [
+    {
+      "Brand": "Apple",
+      "Memory": 256
+    },
+    {
+      "Brand": "Samsung",
+      "Memory": 512
+    },
+    {
+      "Brand": "Xiaomi",
+      "Memory": 128
+    },
+    {
+      "Brand": "Google",
+      "Memory": 256
+    }
+  ],
+  "Catalog": {
+    "1": "iPhone 17 Pro",
+    "2": "Samsung Galaxy S25 Ultra",
+    "3": "Xiaomi Redmi Note 14",
+    "4": "Google Pixel 10"
+  }
+}

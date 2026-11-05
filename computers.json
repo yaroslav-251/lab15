@@ -1,0 +1,22 @@
+[
+  {
+    "Price": 120000,
+    "Processor": "Intel Core i7-14700K",
+    "Memory": 32
+  },
+  {
+    "Price": 85000,
+    "Processor": "AMD Ryzen 5 7600",
+    "Memory": 16
+  },
+  {
+    "Price": 150000,
+    "Processor": "Intel Core i9-14900K",
+    "Memory": 64
+  },
+  {
+    "Price": 95000,
+    "Processor": "AMD Ryzen 7 7700",
+    "Memory": 32
+  }
+]
